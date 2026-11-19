@@ -1,0 +1,6 @@
+{
+  "name": "Olov Grill — Fastfood Oshxonasi",
+  "description": "Olovrang, oq va qora zamonaviy dizayndagi fastfood oshxonasi: interaktiv menyu, onlayn buyurtma, real vaqtda Telegram kanalga yuborish va admin boshqaruv paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
